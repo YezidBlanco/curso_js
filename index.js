@@ -12,6 +12,6 @@ console.log('Entrada: Abrir puerta, introducir comida, cerrar puerta, digitar ti
 console.log('Proceso: Se calientan los alimentos durante el tiempo seleccionado, terminado genera alarma y listo para retirar')
 console.log('Salida: Se abre la puerta, se retira la comida caliente, se cierra la puerta')
 console.log('Ejercicio: Lavadora')
-console.log('Entrada: Se abre la puerta, se introduce la ropa sucia, se añade detergente, se selecciona un ciclo de ladado, se cierra la puerta')
-console.log('Proceso: Realiza el proceso de llenado de agua, enjuagado y realiza el ciclo de labado, terminado se genera alarma')
+console.log('Entrada: Se abre la puerta, se introduce la ropa sucia, se añade detergente, se selecciona un ciclo de lavado, se cierra la puerta')
+console.log('Proceso: Realiza el proceso de llenado de agua, enjuagado y realiza el ciclo de lavado, terminado se genera alarma')
 console.log('Salida: Se abre la puerta, se procede a retirar la ropa limpia y se cierra la puerta')
